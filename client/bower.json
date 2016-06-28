@@ -1,0 +1,31 @@
+{
+  "name": "quotaion",
+  "description": "Patient will query for quotation from the hospital",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Naveen Sharma"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.2.18",
+    "angular-local-storage": "^0.2.7",
+    "angular-sanitize": "^1.5.3",
+    "ng-file-upload": "^12.0.4",
+    "angular-material": "master",
+    "angular-material-data-table": "^0.10.5",
+    "moment": "^2.13.0",
+    "angular-loading-bar": "^0.9.0",
+    "restangular": "^1.5.2",
+    "angular-google-chart": "^0.1.0"
+  }
+}
